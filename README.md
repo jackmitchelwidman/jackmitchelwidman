@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Functional Programming, Category Theory
+- 👀 I’m interested in ...  Blockchain, Crypto, Functional Programming
 - 🌱 I’m currently learning ...(always learning) Functional Programming, Category Theory, Dipping my toe into Homotopy Type Theory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  jack.widman@gmail.com
