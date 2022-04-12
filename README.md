@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Taichiquan, Functional Programming and riding my bicycle.
-- 🌱 I’m currently learning ...(always learning) Functional Programming, Category Theory, Dipping my toe into Homotopy Type Theory
+- 👀 I’m interested in ...  Functional Programming, Songwriting and Song Production.
+- 🌱 I’m currently learning ...The go programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  jack.widman@gmail.com
 
