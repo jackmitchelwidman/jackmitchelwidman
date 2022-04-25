@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackmitchelwidman
 - 👀 I’m interested in ...  Functional Programming, Songwriting and Song Production.
-- 🌱 I’m currently learning ...The go programming language
+- 🌱 I’m currently learning ...The go programming language and Graph Theory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  jack.widman@gmail.com
 
