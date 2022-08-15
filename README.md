@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Cybersecurity, Deep Learning and Functional Programming.
+- 👀 I’m interested in ...  Cybersecurity, Deep Learning, Functional Programming, Graph Theory and Elliptic Curves.
 
 - 📫 How to reach me ...  jack.widman@gmail.com
 
