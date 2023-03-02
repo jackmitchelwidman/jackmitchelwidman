@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Functional Programming, Category Theory, Homotopy Type Theory and Excel.
+- 👀 I’m interested in ...  Functional Programming, Category Theory, Algebraic K Theory and Kriya Yoga.
 
 - 📫 How to reach me ...  jack.widman@gmail.com
 
