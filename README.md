@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Functional Programming, Category Theory, Algebraic k Theory and Kriya Yoga.
-
+- 👀 I’m interested in ...  React Native, Javascript, Scala and meditation.
 - 📫 How to reach me ...  jack.widman@gmail.com
 
 <!---
