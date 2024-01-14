@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  React Native, Javascript, Scala and the Mathematics of AI
+- 👀 I’m interested in ...  Functional Programming, Scala, Effects, Category Theory, Mathematics
 - 📫 How to reach me ...  jack.widman@gmail.com
 
 <!---
