@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Functional Programming, Scala, Effects, Category Theory, Mathematics
+- 👀 I’m interested in ...  Functional Programming, Scala, Cats Effects, Category Theory,
 - 📫 How to reach me ...  jack.widman@gmail.com
 
 <!---
