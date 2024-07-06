@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman
-- 👀 I’m interested in ...  Functional Programming, Scala, Cats Effects, Category Theory, Javascript, Typescript, Node
-- 📫 How to reach me ...  jack.widman@gmail.com
+- 👀 I’m interested in ...  Functional Programming, Scala, Cats Effects, Monadology, Monoids in the category of Endofunctors, Functor Categories, and Oh so Natural Transformations.
 
 <!---
 jackmitchelwidman/jackmitchelwidman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
