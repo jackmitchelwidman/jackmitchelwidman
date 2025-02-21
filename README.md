@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jackmitchelwidman (Yaakov)
-- 👀 I’m interested in ...  Functional Programming, Scala, Cats Effects, Monadology, Monoids in the category of Endofunctors, Functor Categories, and Oh so Natural Transformations. And Jewish Philosophy and Law.
+- 👋 Hi, I’m @jackmitchelwidman 
+- 👀 I’m interested in ...  Programming,  Mathematics and investigating the nature of Infinity. 
 
 <!---
 jackmitchelwidman/jackmitchelwidman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
