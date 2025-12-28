@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmitchelwidman 
-- 👀 I’m interested in ...  Homotopy Type Theory, Cubical Agda, Topology, Large Cardinals, Scala
+- 👀 I’m interested in ...  Homotopy Type Theory, Infinity Category Theory, Cubical Agda, Algebraic Topology, Higher Topos Theory
 
 <!---
 jackmitchelwidman/jackmitchelwidman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
